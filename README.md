@@ -67,6 +67,10 @@ src/
 2. Acesse a rota `/pedidos` para visualizar todos os pedidos.
 3. Acesse a rota `/pedidos-pendentes` para visualizar os pedidos pendentes.
 
+## Observação
+
+Sugiro após clonar excluir o arquivo `pedidosPendentes.txt` para gerar um novo arquivo .txt.
+
 ## Desenvolvido por
 
 Gabriela Moura, © 2024.
